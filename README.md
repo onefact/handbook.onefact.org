@@ -1,8 +1,5 @@
 # Markdoc docs
 
-[Markdoc](https://markdoc.dev) is a [Markdown](https://commonmark.org)-based syntax and toolchain for creating custom documentation sites and experiences.
-We designed Markdoc to power [Stripe's public docs](http://stripe.com/docs), our largest and most complex content site.
-
 ## Contributing
 
 Contributions and feedback are welcomed and encouraged. Feel free to open PRs here, or open issues in the [Markdoc core repo](https://github.com/markdoc/markdoc).
