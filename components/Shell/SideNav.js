@@ -4,12 +4,10 @@ import Link from 'next/link';
 
 const items = [
   {
-    title: 'Projects',
+    title: 'Handbook Pages',
     links: [
-      { href: 'https://help.payless.health/american-hospitals', children: 'Payless Health' },
-      { href: 'https://arxiv.org/abs/1904.05342', children: 'ClinicalBERT' },
-      { href: 'https://www.datathinking.org/university-of-tartu', children: 'Data Thinking' },
-      { href: 'https://childfx.com', children: 'ChildFx' },
+      { href: '/once-upon', children: 'Once Upon' },
+      { href: '/development-environment', children: 'Setting up your computer to develop software' },
     ]
   },
 ];

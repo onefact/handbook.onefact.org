@@ -5,9 +5,7 @@ description: We are a nonprofit organization working to transform healthcare acc
 
 {% section .hero %}
 
-{% typewriter /%}
-
-> Our non-profit structure allows our partners, such as the National Institutes of Health and Harvard Medical School, to grant access to the health data needed to build, train, and deploy our AI engine, ClinicalBERT. Releasing and conducting research using this open source AI means we can require enterprises using our tech to validate their deployments of our model against state-of-the-art health equity metrics.
+> Even a small nonprofit needs an employee handbook! Here is where we show are work, share our principles, and document the processes we use to enhance psychological safety and build the culture of trust and transparency that is necessary to achieve our mission. If we can't do it, how can we expect others to?
 
 {% /section %}
 
@@ -21,43 +19,13 @@ description: We are a nonprofit organization working to transform healthcare acc
 
   {% item %}
 
-  ### Payless Health {% .jumbo %}
+  ### Once Upon {% .jumbo %}
 
-  [Payless.health](https://payless.health) is a search tool for hospital pricing, negotiated rates, and health outcomes in the United States, supported by a grant from Brown Institute (Columbia & Stanford) to parse newly-available but incomplete hospital pricing data.
-  Payless Health will help citizens and businesses save money on healthcare and negotiate with providers/insurers.
-
+  Once Upon is a tool for teaching the principles that can best support behavior change in ourselves and people we care about. Check it out here: [https://help.onefact.org/once-upon](https://help.onefact.org/once-upon)! It's a work in progress, and we'd love your feedback.
 
   {% /item %}
 
-- {% ascii "pencil" /%}
-
-  {% item %}
-
-  ### Clinical Bert {% .jumbo %}
-
-  [ClinicalBERT](https://arxiv.org/abs/1904.05342) is a healthcare-focused AI engine developed in a research paper co-created by our founder and collaborators at Stanford and New York University. It is cited 450+ times and used at multiple academic medical centers to conduct research, and build novel technology in biomedical research, life sciences, and pharmaceutical areas.
-
-  {% /item %}
-
-- {% ascii "card" /%}
-
-  {% item %}
-
-  ### Data Thinking {% .jumbo %}
-
-  [Data Thinking](https://www.datathinking.org/university-of-tartu) is a set of open-source courses and industry symposia we're building with our Ivy League and international partners to increase access to artificial intelligence, machine learning, and data science education around the world, such as the skills to use GPT and other large language models to accelerate their learning.
-
-  {% /item %}
-
-- {% ascii "b" /%}
-
-  {% item %}
-
-  ### ChildFx {% .jumbo %}
-
-  [ChildFx](childfx.com) is an AI tool to accelerate and support pediatric radiology, based on a research paper by our founder - Detecting Pediatric Upper Extremity Fractures With Deep Learning Based Object Detection - that the One Fact Foundation has worked with Columbia University Medical Center to pilot and test.
-
-  {% /item %}
+---
 
 {% /table %}
 

@@ -19,7 +19,7 @@ export function TopNav({ children }) {
     <div className="nav-bar">
       <nav>
         <div className="flex top-row">
-          <Link href="/" className="flex">
+          <Link href="https://onefact.org/" className="flex">
     {/* OFF Logo here*/}
           <svg title="onefact.org" width="198"
         height="56" fill="none"
