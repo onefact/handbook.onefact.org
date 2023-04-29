@@ -5,7 +5,7 @@ description: We are a nonprofit organization working to transform healthcare acc
 
 {% section .hero %}
 
-> Even a small nonprofit needs an employee handbook! Here is where we show are work, share our principles, and document the processes we use to enhance psychological safety and build the culture of trust and transparency that is necessary to achieve our mission. If we can't do it, how can we expect others to?
+> Even a small nonprofit needs an employee handbook! Here is where we show our work, share our principles, and document the processes we use to enhance psychological safety and build the culture of trust and transparency that is necessary to achieve our mission. If we can't do it, how can we expect others to?
 
 {% /section %}
 
