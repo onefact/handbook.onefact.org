@@ -3,6 +3,8 @@ title: Offers Team Information
 description: The One Fact Foundation team is in the 5-Boro Bike Tour! We are the offers :)
 ---
 
+[✏️ Edit or Improve this Page](https://github.com/onefact/help.onefact.org/edit/main/pages/bike.md)
+
 ## 🚴 What
 
 The Five Boro Bike Tour is the United States' "biggest bike ride" ([https://www.bike.nyc/about/our-story/](https://www.bike.nyc/about/our-story/)). We are an official charity partner of the ride; see our logo here: [https://www.bike.nyc/events/td-five-boro-bike-tour/charity-partners-2/](https://www.bike.nyc/events/td-five-boro-bike-tour/charity-partners-2/).
