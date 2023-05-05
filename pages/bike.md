@@ -11,6 +11,10 @@ The Five Boro Bike Tour is the United States' "biggest bike ride" ([https://www.
 
 ## Where
 
+The Five Boro Bike Tour map of the ride is here: 
+
+[Google Maps](https://www.google.com/maps/d/u/0/edit?mid=1_Ta1cEslwgwpLIIyskSYSqeuPLqeS_Q&usp=sharing)
+
 ### Payless Health LinkNYC Stations
 
 * LinkNYC Kiosk at Bryant Park at 6th Ave & W 42nd St ([Google Maps Link](https://goo.gl/maps/CzKgLaq9Jo7HpQMUA)) (Northwest corner of Bryant park, Northeast corner of 6th Ave & W 42nd St on the East side of 6th Ave)
