@@ -21,11 +21,12 @@ Invite link for the One Fact Foundation Discord: [🎙️ https://discord.gg/BZT
 
 On Sunday May 7, 2023, we are meeting in front of `STUDIOTWENTYSEVEN` ([Google Maps](https://goo.gl/maps/aGFNrAr5NphzLU1o8)) on the East side of Church Street. 
 
-## ⛑️ Gear checklist
+## ⛑️ Gear checklist and dress suggestions
 
 * Daytime running lights (let us know if you need us to order you front and rear lights!)
 * Helmet (we recommend [Hövding helmets](https://hovding.com/); let us know if you need a helmet)
 * Horn (we will have extras)
+* Neon colors! These are our team colors. Anything bright, sparkly, neon is welcome :) and we will have fun tape for everyone.
 
 ## 🧭 Directions from entrance to meeting location
 
@@ -44,6 +45,14 @@ The Five Boro Bike Tour map of the ride is here:
 [Official Five Boro Bike Tour Map, PDF](https://www.bike.nyc/wp-content/uploads/2023/04/2023.04.13_FBBT-Route-Map.pdf)
 
 [Map with starting locations for the ride, PDF](https://www.bike.nyc/wp-content/uploads/2023/04/2023.04.13_FBBT-Start-Map.pdf)
+
+## During the ride
+
+It is the United States' biggest bike ride and therefore dangerous, so here are things to keep in mind during the ride:
+
+* Leave your front and rear lights on at all times. 
+* Practice defensive biking -- be predictable, no sharp turns, yell and vigorously signal with your hands, head, and body before turning, stopping slowing down, or doing anything that might be perceived as surprising or unpredictable. 
+* Stay on the right side. We will stay together using GPS on the right side.
 
 ### 📸 Payless Health LinkNYC Stations
 
