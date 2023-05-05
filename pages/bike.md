@@ -9,11 +9,13 @@ description: The One Fact Foundation team is in the 5-Boro Bike Tour! We are the
 
 The Five Boro Bike Tour is the United States' "biggest bike ride" ([https://www.bike.nyc/about/our-story/](https://www.bike.nyc/about/our-story/)). We are an official charity partner of the ride; see our logo here: [https://www.bike.nyc/events/td-five-boro-bike-tour/charity-partners-2/](https://www.bike.nyc/events/td-five-boro-bike-tour/charity-partners-2/).
 
-## 💬 Communications 
+## 💬 Communications & 🙋 Getting Help
 
-Join this Discord channel (you might need to install the Android app or iPhone app) for the voice channel, kind of like walkie talkies. This will help us stay in touch throughout the 40 mile race if we need, share waypoints or photo opportunities, etc: 
+**Voice/Walkie Talkie**: Join this Discord channel (you might need to install the Android app or iPhone app) for the voice channel, kind of like walkie talkies. This will help us stay in touch throughout the 40 mile race if we need, share waypoints or photo opportunities, etc: 
 
 Invite link for the One Fact Foundation Discord: [🎙️ https://discord.gg/BZTxUpzr](https://discord.gg/BZTxUpzr)
+
+**Email**: email [bike@onefact.org](mailto:bike@onefact.org) for help at any time!
 
 ## 🕖 When & 📍 Where the One Fact Foundation team is meeting
 
