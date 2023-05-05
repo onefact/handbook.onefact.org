@@ -19,7 +19,13 @@ Invite link for the One Fact Foundation Discord: [🎙️ https://discord.gg/BZT
 
 ## 🕖 When & 📍 Where the One Fact Foundation team is meeting
 
-On Sunday May 7, 2023, we are meeting in front of `STUDIOTWENTYSEVEN` ([Google Maps](https://goo.gl/maps/aGFNrAr5NphzLU1o8)) on the East side of Church Street. 
+On Sunday May 7, 2023, we are meeting in front of `STUDIOTWENTYSEVEN` at the following address:
+
+`241 Church St, New York, NY 10013, United States`
+
+([Google Maps](https://goo.gl/maps/aGFNrAr5NphzLU1o8))
+
+This is on the East side of Church Street, to align with our ride suggestion of staying on the right side of the mass of riders biking alongside us. Ride on the right!
 
 ## ⛑️ Gear checklist and dress suggestions
 
@@ -52,7 +58,7 @@ It is the United States' biggest bike ride and therefore dangerous, so here are 
 
 * Leave your front and rear lights on at all times. 
 * Practice defensive biking -- be predictable, no sharp turns, yell and vigorously signal with your hands, head, and body before turning, stopping slowing down, or doing anything that might be perceived as surprising or unpredictable. 
-* Stay on the right side. We will stay together using GPS on the right side.
+* Stay on the right side. We will stay together using GPS on the right side. Ride on the right! :)
 
 ### 📸 Payless Health LinkNYC Stations
 
