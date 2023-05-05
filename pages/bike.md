@@ -61,6 +61,10 @@ You can see an example of a rider page here:
 
 [https://onefact.org/five-boro-bike-tour/jaan](https://onefact.org/five-boro-bike-tour/jaan)
 
+## Official Guide to the Five Boro Bike Tour
+
+[Five Boro Bike Tour official tour map](https://issuu.com/bike8/docs/bny_5bbt_2023_final_program_spreads_042823?fr=sOTIwNTQxNjQ0NzA)
+
 ## Joining the Team
 
 Reach out to hello@onefact.org to sign up :)
