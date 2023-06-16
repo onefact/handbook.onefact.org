@@ -9,6 +9,7 @@ const items = [
       { href: '/once-upon', children: 'Once Upon' },
       { href: '/development-environment', children: 'Setting up your computer to develop software' },
       { href: '/bike', children: 'Five Boro Bike Tour Team' },
+      { href: '/work', children: 'Work' },
     ]
   },
 ];
