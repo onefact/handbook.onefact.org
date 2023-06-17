@@ -4,7 +4,7 @@ import Link from 'next/link';
 
 const items = [
   {
-    title: 'Handbook Pages',
+    title: 'Handbook',
     links: [
       { href: '/once-upon', children: 'Once Upon' },
       { href: '/development-environment', children: 'Setting up your computer to develop software' },
