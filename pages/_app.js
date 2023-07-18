@@ -142,7 +142,7 @@ export default function MyApp(props) {
       </a>
       <TopNav>
         <Link href="/">Help</Link>
-        <Link href="/team">Team</Link>
+        <Link href="https://onefact.org/team">Team</Link>
         <Link href="https://github.com/onefact/">GitHub</Link>
         <Link href="https://onefact.zulipchat.com">
           Collective
